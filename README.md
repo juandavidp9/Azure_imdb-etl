@@ -12,7 +12,12 @@ ETL Project of IMDB Movies using Azure Data Factory,Synapse Analytics, Datalake 
 
 ![ETL](https://drive.google.com/uc?id=1vBauQqB060s_4CrU14kpCDzidDWWXcic)
 
-### Azure Data Factory Pipeline
+## Pyspark Azure Synapse Transformation
+
+ Writing transformed data to Refined Container
+ We are using Datalake as Refined layer
+ Storing data in parquet format
+ This helps to copy the data into Azure Database using ADF
 
 ### Result: Transformed data loaded in Azure SQL
 
