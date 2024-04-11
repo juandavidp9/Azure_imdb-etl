@@ -4,4 +4,4 @@ End to end Project of IMDB Movies using Azure Data Factory,Synapse Analytics, Da
 
 ### Architecture 
 
-![Architecture ](![Test app](https://drive.google.com/uc?id=1vUjMqwAEA3g7lpkjYQXcH2mQys6UKPaQ))
+![Architecture](https://drive.google.com/uc?id=16_waj0iR35YVoX3lklU4OAj3zEuaPbPi)
