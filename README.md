@@ -1,6 +1,7 @@
 # Azure ETL Project: IMDB Movies
 
-ETL Project of IMDB Movies using Azure Data Factory,Synapse Analytics, Datalake Storage and Azure SQL db.
+ETL Project of IMDB Movies using Azure Data Factory, Synapse Analytics, Datalake Storage and Azure SQL db.
+
 In this project we use a feature called “Self Hosted Integration Runtime” to access on premise environment data sources.
 It will alow us to copy the data to the Datalake Storage.
 The data is transformed in Azure Synpase using Pyspark. Finally it is loaded into a Azure SQL database.
