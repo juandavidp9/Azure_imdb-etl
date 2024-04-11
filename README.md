@@ -4,7 +4,7 @@ ETL Project of IMDB Movies using Azure Data Factory,Synapse Analytics, Datalake 
 
 ### Architecture 
 
-![architecture](https://drive.google.com/uc?id=1rG4AkjeGjXMjNHFDmMyMFyletJ33ZoiN
+![architecture](https://drive.google.com/uc?id=1rG4AkjeGjXMjNHFDmMyMFyletJ33ZoiN)
 
 ### Azure Data Factory Pipeline
 
